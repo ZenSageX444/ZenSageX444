@@ -1,11 +1,17 @@
 # Nya~ Hi there 👋. 
 
+<p align="center">
+	<a href="https://discord.com/invite/HcXTaB8UwA"><img src="https://img.shields.io/discord/1205173062375575572?label=discord&color=7289DA&logo=discord" alt="Discord" /></a>
+	<br>
+</p>
+
 #### Statistical Data
 
 ![](https://github-readme-stats.vercel.app/api?username=ZenSageX444&show_icons=true&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=8e8cd8)
 
 #### Programming Language
 
+![PHP](https://img.shields.io/badge/php-%2300599C.svg?style=for-the-badge&logo=PHP&logoColor=white)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
