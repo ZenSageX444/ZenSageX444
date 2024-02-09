@@ -42,4 +42,4 @@
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 
 #### Visitors (Since 2024/01/01)
-![](https://count.getloli.com/get/@RimuruChan?theme=rule34)
+![](https://count.getloli.com/get/@ZenSageX444?theme=rule34)
